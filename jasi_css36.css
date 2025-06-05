@@ -8,28 +8,28 @@
     .l1 {
       height: 3px;
       background-color: maroon;
-      width: 80%;
+      width: 100%;
       border: none;
     }
 
     .l2 {
       height: 6px;
       background-color: pink;
-      width: 50%;
+      width: 99%;
       border: none;
     }
 
     .l3 {
       height: 4px;
       background-color: purple;
-      width: 90%;
+      width: 98%;
       border: none;
     }
 
 
     h1 {
       text-align: center;
-      background-color: #ffff66; 
+      background-color: navy; 
       padding: 15px;
       font-size: 28px;
       border-top: 4px dotted green;
@@ -37,13 +37,13 @@
       border-bottom: 4px double black;
       border-left: 4px groove blue;
       margin: 20px auto;
-      width: 60%;
+      width: 50%;
     }
 
 
     h2 {
       text-align: center;
-      background-color: #cce6ff; 
+      background-color: lime; 
       padding: 10px;
       font-size: 24px;
       border-top: 4px solid red;
@@ -51,7 +51,7 @@
       border-bottom: 4px solid green;
       border-left: 4px solid blue;
       margin: 20px auto;
-      width: 50%;
+      width: 45%;
     }
 
     h3 {
